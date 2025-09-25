@@ -2,8 +2,6 @@
 
 ### Data Analytics 📊 | Python | SQL | Power BI | Excel | MongoDB | SPSS Modeler | Frontend Dev 💻 | Aspiring Data Analyst & Web Developer | ML and AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-shivasharma9475&label=Profile%20views&color=0e75b6&style=flat" alt="shivasharma9475" /> </p>
-
 - 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **Python, Data Analysis, PowerBI, frontend etc.**

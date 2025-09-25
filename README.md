@@ -1,16 +1,16 @@
-## Hi there 👋
+#Hi 👋, I'm Shiva Sharma
 
-<!--
-**shivasharma9475/shivasharma9475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 BTech CSE Student | 💻 Passionate about Data Science & Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Programming: Python, C, Java  
+- Web Dev: HTML, CSS, Flask  
+- Data Science: Pandas, SQL, Power BI ,Machine learning  And AI
+
+## 📊 GitHub Stats
+![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivabhai&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+- LinkedIn:(https://www.linkedin.com/in/shivasharma0912/)
+- Portfolio:(https://shivasharma9475.github.io/)

@@ -8,8 +8,6 @@
 
 - 📫 How to reach me: [shivasharma9475@gmail.com](mailto:shivasharma9475@gmail.com)
 
-- ⚡ Fun fact: **[A fun fact about you]**
-
 <h3 align="left">🚀 Languages and Tools:</h3>
 
 <p align="left">

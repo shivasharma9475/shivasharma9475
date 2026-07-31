@@ -1,90 +1,178 @@
-<h1 align="center">Hi there, I'm Shiva Sharma 👋</h1>
+<div align="center">
 
-<h3 align="center">Software Engineer | Full Stack (MERN) Developer | AI/ML & Data Enthusiast</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Shiva+Sharma;Full+Stack+Engineer+%7C+MERN+Stack;AI%2FML+%2B+Data+Science+Enthusiast;Building+scalable+systems+one+commit+at+a+time" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────┐
+│  $ whoami                                     │
+│  > B.Tech CSE (Data Science & AI) student     │
+│  > Full Stack Dev · JWT/RBAC · REST APIs      │
+│  > ML models · Data pipelines · Dashboards    │
+│  > Status: Open to SDE / Full Stack / AI-ML   │
+└──────────────────────────────────────────────┘
+```
+
+</div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white"></a>
-  <a href="mailto:shivasharma9475@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:shivasharma9475@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<br/>
 
-### 🚀 About Me
+## `01` Stack
 
-- 🎓 B.Tech in Computer Science (Data Science & AI), Shri Ramswaroop Memorial University — CGPA 8.14/10
-- 💻 Experienced in building scalable **MERN stack** applications with JWT auth, RBAC, and MVC architecture
-- 📊 Skilled in **Machine Learning**, data visualization, and analytics using Pandas, Scikit-learn & Power BI
-- 🤖 Currently exploring **Generative AI, LLMs & Prompt Engineering** via IBM SkillsBuild
-- 🔭 Open to **Software Engineer, SDE, Full Stack Developer, Data Analyst, or AI/ML Internship** roles
-- 📍 Based in Chandausi, Uttar Pradesh, India
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**Core**
+```yaml
+languages:   [Python, JavaScript_ES6+, SQL]
+runtime:     Node.js
+frontend:    React.js
+backend:     Express.js
+auth:        JWT, RBAC
+architecture: MVC, RESTful API design
+```
 
-### 🛠️ Tech Stack
+</td>
+<td valign="top" width="50%">
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Data / ML**
+```yaml
+processing:  [Pandas, NumPy]
+modeling:    Scikit-learn (RandomForest, XGBoost)
+viz:         [Power BI, Matplotlib, Seaborn]
+deployment:  Streamlit
+metrics:     R², MAE, feature engineering
+```
 
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-**Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Data Layer**
+```yaml
+databases:   [MongoDB, MySQL, PostgreSQL]
+odm:         Mongoose
+patterns:    schema design, indexing
+```
 
-**Data Science & AI/ML**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+</td>
+<td valign="top" width="50%">
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Infra / Tooling**
+```yaml
+vcs:         [Git, GitHub]
+testing:     Postman
+hosting:     [Vercel, Render]
+ci:          CI/CD basics
+media:       Cloudinary
+```
 
----
+</td>
+</tr>
+</table>
 
-### 📌 Featured Projects
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,js,react,nodejs,express,mongodb,mysql,postgres,git,github,vscode,vercel&theme=dark" />
+</p>
 
-**[InventoryPro – Inventory Management System](https://github.com/your-github/inventorypro)**
-Full-stack MERN inventory system with JWT auth, RBAC (Admin/Staff), 60+ REST API endpoints across 10 route modules, barcode scanning, low-stock alerts, and a real-time analytics dashboard.
-`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+<br/>
 
-**[Global Energy Analyzer](https://github.com/your-github/global-energy-analyzer)**
-End-to-end analytics platform analyzing energy consumption & CO2 emissions across 176 countries (2000–2020). Trained Random Forest & XGBoost models with **R² of 0.996**, deployed via an interactive Streamlit dashboard.
-`Python` `Pandas` `Scikit-learn` `Streamlit`
+## `02` GitHub Metrics
 
----
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
-### 💼 Experience
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=radical&hide_border=true"/>
+</div>
 
-- **AI Intern**, Codec Technologies India — Built ML preprocessing pipelines & predictive models with Scikit-learn *(Jul–Aug 2025)*
-- **Generative AI Virtual Intern**, IBM SkillsBuild (via Edunet Foundation) — LLMs & Prompt Engineering *(Jun 2026–Present)*
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=redical&hide_border=true"/>
+</div>
 
----
+<br/>
 
-### 📜 Certifications
+## `03` System Architecture — InventoryPro
 
-- Full Stack Web Development Bootcamp — L&T EduTech
-- Data Analytics and Reporting — IBM
-- SQL for Data Analytics — L&T EduTech
+```
+┌─────────────┐      ┌──────────────┐      ┌─────────────┐
+│   React.js  │─────▶│  Express.js  │─────▶│  MongoDB    │
+│  (Client)   │◀─────│  (10 routes) │◀─────│ (5 models)  │
+└─────────────┘      └──────┬───────┘      └─────────────┘
+                             │
+                     ┌───────▼────────┐
+                     │  JWT + RBAC    │
+                     │ Admin / Staff  │
+                     └────────────────┘
+```
 
----
+**[→ github.com/your-github/inventorypro](https://github.com/your-github/inventorypro)**
 
-### 🌱 Leadership
+| Metric | Value |
+|---|---|
+| API Endpoints | 60+ across 10 route modules |
+| Data Models | 5 (products, billing, staff, activity, users) |
+| Auth | JWT + Role-Based Access Control |
+| Features | CRUD, barcode scanning, low-stock alerts, real-time analytics |
 
-- **Technical Head**, College Technical Club — Mentored 20+ students in Python & web development through workshops and hackathons
-- **College Event Coordinator** — Organized university-level coding competitions and tech fests
+<br/>
 
----
+## `04` ML Pipeline — Global Energy Analyzer
 
-<p align="center"><i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
+```
+raw CSV (3,649 rows, 176 countries, 2000–2020)
+        │
+        ▼
+Pandas cleaning + feature engineering
+        │
+        ▼
+train/test split ──▶ RandomForestRegressor
+                  └─▶ XGBoostRegressor
+        │
+        ▼
+Model evaluation: R² = 0.996 | MAE ≈ 7,400
+        │
+        ▼
+Streamlit dashboard (interactive forecasting)
+```
+
+**[→ github.com/your-github/global-energy-analyzer](https://github.com/your-github/global-energy-analyzer)**
+
+<br/>
+
+## `05` Experience Log
+
+```diff
++ [2026-06 → present] Generative AI Virtual Intern @ IBM SkillsBuild (Edunet Foundation)
+                       LLMs, prompt engineering, responsible AI practices
+
++ [2025-07 → 2025-08] AI Intern @ Codec Technologies India
+                       ML preprocessing pipelines, model training & evaluation
+```
+
+<br/>
+
+## `06` Contact
+
+```bash
+curl -X POST api.shiva.dev/contact \
+  -d '{"email": "shivasharma9475@gmail.com", "location": "Chandausi, UP, India"}'
+```
+
+<div align="center">
+<sub>Building things, breaking things, learning from both.</sub>
+</div>
